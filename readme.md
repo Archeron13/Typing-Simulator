@@ -3,7 +3,7 @@
 ## Requirements
 To install the required library write the following command in your terminal after opening the directory where you have extracted the ZIP
 ```bash 
-pip3 install -r requirements.txt```
+pip3 install -r requirements.txt
 ****
 (Note you might need to get Tkinter by yourself as PIP does not offer it for some version of python.)
 
