@@ -6,6 +6,7 @@ To install the required library write the following command in your terminal aft
 ```bash 
 pip3 install -r requirements.txt
 ```
+
 (Note you might need to get Tkinter by yourself as PIP does not offer it for some version of python.)
 
 ## Features
